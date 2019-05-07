@@ -1,0 +1,14 @@
+{
+  "$schema": "../node_modules/@angular-devkit/schematics/collection-schema.json",
+  "schematics": {
+    "supercharged-schematics": {
+      "description": "A blank schematic.",
+      "factory": "./supercharged-schematics/index#superchargedSchematics"
+    },
+    "not-simple-schematics": {
+      "description": "A not-so basic schematic.",
+      "factory": "./not-simple-schematic/index#simpleSchematic",
+      "schema": "./not-simple-schematic/schema.json"
+    }
+  }
+}
