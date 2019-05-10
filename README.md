@@ -21,6 +21,6 @@ ng g supercharged-schematics:SCHEMATIC_NAME
 
 ## Available Schematics
 #### Easter Egg
-Name: easter-eggz
-Feature: Just try it...
+- Name: easter-eggz
+- Feature: Just try it...
  
