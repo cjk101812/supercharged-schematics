@@ -4,6 +4,8 @@ A set of schematics to help streamline Angular development by providing pre-made
 
 ## Getting Started
 
+> Will be moving to ng add structure ASAP!!!
+
 1. Clone this repo!
 ```
 git clone
